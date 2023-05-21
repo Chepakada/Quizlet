@@ -1,0 +1,53 @@
+[
+    {
+      "question": "Every vertex in a connected graph must have a self-loop.",
+      "answer": false,
+      "id":1
+    },
+    {
+      "question": "A tree with n vertices always has exactly n-1 edges.",
+      "answer": true,
+      "id":2
+    },
+    {
+      "question": "Every bipartite graph is also a complete graph.",
+      "answer": false,
+      "id":3
+    },
+    {
+      "question": "The complement of a connected graph is always disconnected.",
+      "answer": true,
+      "id":4
+    },
+    {
+      "question": "Every directed graph contains at least one directed cycle.",
+      "answer": false,
+      "id":5
+    },
+    {
+      "question": "A permutation is an ordered arrangement of distinct elements.",
+      "answer": true,
+      "id":6
+    },
+    {
+      "question": "A Hamiltonian path visits every vertex in a graph exactly once.",
+      "answer": true,
+      "id":7
+    },
+    {
+      "question": "Every planar graph can be drawn without any edge crossings.",
+      "answer": true,
+      "id":8
+    },
+    {
+      "question": "A function that is not injective cannot be surjective.",
+      "answer": false,
+      "id":9
+    },
+    {
+      "question": "The power set of a set always has more elements than the original set.",
+      "answer": true,
+      "id":10
+    }
+]
+  
